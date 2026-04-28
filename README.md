@@ -1,3 +1,4 @@
+<img width="1021" height="1428" alt="Final SM model GIF" src="https://github.com/user-attachments/assets/f0edd9ad-4093-4289-b78d-158ebe2a4c30" />
 # Human-interaction-network-properties-emerge-from-spatial-constraints
 This code accompanies the paper of the same name (forthcoming). It's a pipeline to calibrate agent-based models to mobility behavior, and validating the model to bluetooth proximity data using Approximate Bayesian Computation.
 
@@ -20,6 +21,8 @@ HOW TO RUN
 
 
 This is a visualization of what the second of our models does:
+
+<img width="510" height="714" alt="Final SM model GIF" src="https://github.com/user-attachments/assets/4fab3f7c-587f-48c0-b860-e113999537af" />
 
 <img width="510" height="714" alt="SM GIF" src="https://github.com/user-attachments/assets/0c01afea-01de-4949-b13f-41a357951e0f" />
 

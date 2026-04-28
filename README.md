@@ -21,11 +21,12 @@ HOW TO RUN
 
 This is a visualization of what the second of our models does:
 
-
+<img width="1021" height="1428" alt="SM GIF" src="https://github.com/user-attachments/assets/0c01afea-01de-4949-b13f-41a357951e0f" />
 
 The results visualizations look like this:
 
-Network structure plots:
+[Figure_3_but_really.pdf](https://github.com/user-attachments/files/27164937/Figure_3_but_really.pdf)
+
 
 
 

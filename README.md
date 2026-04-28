@@ -10,13 +10,15 @@ More detailed documentation is found in the files themselves.
 
 HOW TO RUN
 
-1. Download files into same folder
+1. Download "bt_symettric.csv" from https://figshare.com/articles/dataset/The_Copenhagen_Networks_Study_interaction_data/7267433
 
-2. Install packages if necessary
+1. Download .py scripts into same folder
 
-3. Optional: set one ore more desired ABC Runs by updating RUN_TESTS in "3. ABC Runs.py"
+3. Install packages if necessary
 
-4. Run files in order
+4. Optional: set one ore more desired ABC Runs by updating RUN_TESTS in "3. ABC Runs.py"
+
+5. Run files in order
 
 
 This is a visualization of what the second of our models does:

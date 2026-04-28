@@ -25,7 +25,7 @@ This is a visualization of what the second of our models does:
 
 The results visualizations look like this:
 
-<img width="3780" height="2362" alt="Figure_3_but_really-1" src="https://github.com/user-attachments/assets/de26218a-fcd2-4380-abc8-8e632adc5f32" />
+<img width="1890" height="1181" alt="Figure_3_but_really-1" src="https://github.com/user-attachments/assets/de26218a-fcd2-4380-abc8-8e632adc5f32" />
 
 
 

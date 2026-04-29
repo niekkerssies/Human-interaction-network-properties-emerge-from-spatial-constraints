@@ -18,7 +18,7 @@ HOW TO RUN
 
 4. Optional: set one ore more desired ABC Runs by updating RUN_TESTS in "3. ABC Runs.py"
 
-5. Run files in order
+5. Run "ABC runs.py", then "Collecting results.py"
 
 
 This is a visualization of what the second of our models does:

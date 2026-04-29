@@ -1,5 +1,5 @@
-# Human-interaction-network-properties-emerge-from-spatial-constraints
-This code accompanies the paper of the same name (forthcoming). It's a pipeline to calibrate agent-based models to mobility behavior, and validating the model to bluetooth proximity data using Approximate Bayesian Computation.
+# Human interaction network properties emerge from spatial constraints
+This code accompanies the paper of the same name (forthcoming). It's a pipeline to calibrate agent-based models to mobility behavior, and validating the model to bluetooth proximity data using Approximate Bayesian Computation. The results show that several key observed network properties of the Copenhagen Social Network study dataset can be generated from spatial constraints alone, including clustering, shortest path lengths, and the heavy tailed distribution of interactions per dyad.
 
 SCRIPTS
 

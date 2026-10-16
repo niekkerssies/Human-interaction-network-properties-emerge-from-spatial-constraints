@@ -3,7 +3,7 @@ from Models import Simulation_scheduledmobility
 from PIL import Image, ImageDraw
 
 '''
-5. ADDITIONAL FILE: MODEL GIF AND OTHER LOCATIONS.
+7. ADDITIONAL FILE: MODEL GIF AND OTHER LOCATIONS.
 This script creates a dynamic visualization of our scheduled mobility 
 model and its environment. By entering any valid Open Street Maps location 
 as a string, this code can also run the model in that environment. Just 

@@ -17,7 +17,7 @@ HOW TO RUN
 
 3. Install packages if necessary
 
-4. Optional: set one ore more desired ABC Runs by updating RUN_TESTS in "3. ABC Runs.py"
+4. Optional: set one ore more desired ABC Runs by updating RUN in "3. ABC Runs.py"
 
 5. Run files in order
 

@@ -27,10 +27,6 @@ This is a visualization of what the second of our models does:
 
 <img width="510" height="714" alt="Final SM model GIF" src="https://github.com/user-attachments/assets/4fab3f7c-587f-48c0-b860-e113999537af" />
 
-The results visualizations look like this:
-
-<img width="1890" height="1181" alt="Figure_3_but_really-1" src="https://github.com/user-attachments/assets/de26218a-fcd2-4380-abc8-8e632adc5f32" />
-
 
 
 
